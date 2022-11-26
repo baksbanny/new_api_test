@@ -1,2 +1,5 @@
-# new_api_test
-new_api_test
+#pip3 install and python 
+pip3 install pytest
+
+
+python -m pytest -v s
