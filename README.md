@@ -3,4 +3,4 @@
 pip3 install pytest
 
 Запуск тестов
-python -m pytest -v s
+python -m pytest -v -s
